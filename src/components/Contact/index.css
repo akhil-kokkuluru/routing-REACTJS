@@ -1,0 +1,13 @@
+.homecss {
+  width: 150px;
+}
+.nameCss {
+  color: #551e53;
+  font-size: 30px;
+}
+.totalCont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
